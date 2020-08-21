@@ -10,7 +10,7 @@ Some of my technical experiences include:
 
 • [OmniVision Technologies](https://www.ovt.com/) (SWE Intern of Summer 2019) 📸 👨‍💻 <br />
 • [SFSU Computer Science Mentor](https://cs.sfsu.edu/) (Mentor of Fall 2020) 👨‍🏫 <br />
-• [Stanford Medicine iOS Application](https://cs.sfsu.edu/) (Research Assistant of Fall 2019) 🌲 💊 <br />
+• [Stanford Medicine iOS Application](https://cs.sfsu.edu/) (Research Assistant of Fall 2020) 🌲 💊 <br />
 • [Twitter Spam Detection Research](https://cs.sfsu.edu/) (Research Assistant of Fall 2019) 🐦 👨‍💻 <br />
 
 Aside from programming, I was also a Division II Wrestler at my respected university, and was a starter
