@@ -5,8 +5,8 @@ I am also an incoming Software Engineer for [Cisco](https://www.cisco.com/) wher
 
 I am familiar with Full-Stack development in both Web and Mobile applications!
 
-Some of my technical experiences include:
-• [The @ Company](https://atsign.com/home) (Current SWE Intern)
+Some of my technical experiences include: </br>
+• [The @ Company](https://atsign.com/home) (Current SWE Intern) </br>
 • [OmniVision Technologies](https://www.ovt.com/) (SWE Intern of Summer 2019) 📸 👨‍💻 <br />
 • [SFSU Computer Science Mentor](https://cs.sfsu.edu/) (Mentor of Fall 2020) 👨‍🏫 <br />
 • [Stanford Medicine iOS Application](https://cs.sfsu.edu/) (Research Assistant of Fall 2020) 🌲 💊 <br />
