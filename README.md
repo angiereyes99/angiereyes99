@@ -1,6 +1,6 @@
 ### Hi I'm Angelo!
 
-I'm a current Senior at San Francisco State University studying Computer Science! 
+I'm a current Senior at San Francisco State University studying Computer Science! </br>
 I am also an incoming Software Engineer for [Cisco](https://www.cisco.com/) where I'll be joining the Supply Chain/Digital Products team on Aug 2021!
 
 I am familiar with Full-Stack development in both Web and Mobile applications!
