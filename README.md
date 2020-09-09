@@ -1,13 +1,12 @@
 ### Hi I'm Angelo!
 
 I'm a current Senior at San Francisco State University studying Computer Science! 
-I am also a current Software Engineer Intern for [The @ Company](https://atsign.com/home) where I am 
-developing a Dart and Flutter application using the secondary server developed by the company.
+I am also an incoming Software Engineer for [Cisco](https://www.cisco.com/) where I'll be joining the Supply Chain/Digital Products team on Aug 2021!
 
 I am familiar with Full-Stack development in both Web and Mobile applications!
 
 Some of my technical experiences include:
-
+• [The @ Company](https://atsign.com/home) (Current SWE Intern)
 • [OmniVision Technologies](https://www.ovt.com/) (SWE Intern of Summer 2019) 📸 👨‍💻 <br />
 • [SFSU Computer Science Mentor](https://cs.sfsu.edu/) (Mentor of Fall 2020) 👨‍🏫 <br />
 • [Stanford Medicine iOS Application](https://cs.sfsu.edu/) (Research Assistant of Fall 2020) 🌲 💊 <br />
